@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# pacote4
+# pacote4 <img src="man/figures/logo.png" align="right" height="134" alt="" />
 
 <!-- badges: start -->
 
