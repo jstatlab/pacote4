@@ -1,0 +1,23 @@
+---
+title: "pacote4"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{pacote4}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(pacote4)
+
+set.seed(1000)
+m <- matrix(rnorm(1e6), nrow = 1000)
+mutual_information(m)
+```
