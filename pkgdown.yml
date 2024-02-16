@@ -1,6 +1,7 @@
 pandoc: 2.19.2
 pkgdown: 2.0.7
 pkgdown_sha: ~
-articles: {}
-last_built: 2024-02-16T23:15Z
+articles:
+  pacote4: pacote4.html
+last_built: 2024-02-16T23:22Z
 
