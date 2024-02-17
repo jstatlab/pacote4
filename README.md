@@ -12,7 +12,6 @@ activity](https://img.shields.io/github/commit-activity/m/jstatlab/pacote4)
 count](https://img.shields.io/github/languages/count/jstatlab/pacote4)
 ![GitHub top
 language](https://img.shields.io/github/languages/top/jstatlab/pacote4)
-![Codecov](https://img.shields.io/codecov/c/github/jstatlab/pacote4)
 ![GitHub code size in
 bytes](https://img.shields.io/github/languages/code-size/jstatlab/pacote4)
 ![GitHub repo
@@ -27,6 +26,7 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![ORCiD:0000-0001-7414-1154](https://img.shields.io/badge/ORCiD-0000--0001--7414--1154-A6CE39?logo=ORCID&colorIcon.svg)](https://orcid.org/0000-0001-7414-1154)
 [![Codecov test
 coverage](https://codecov.io/gh/jstatlab/pacote4/branch/master/graph/badge.svg)](https://app.codecov.io/gh/jstatlab/pacote4?branch=master)
+![Codecov](https://img.shields.io/codecov/c/github/jstatlab/pacote4)
 <!-- badges: end -->
 
 The goal of pacote4 is to …
